@@ -1,13 +1,17 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Formação Github Certification - Desafio 02
+
+Conforme desafio abaixo proposto pela Professora @alinealien, irei fazer a resolução utilizando as ferramentas apresentadas durante o segundo módulo do Curso Formação Github Certification, ministrado por ela e realizado pela Digital Innovation One - [DIO](https://web.dio.me/home).
+
+## Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
-### Atenção ⚠️ 
+#### Atenção ⚠️ 
 
 Não tem acesso ao Github Copilot?! Não tem problema!! 
 Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
 
-## 1 - Concatenando Dados 🐾
+### 1 - Concatenando Dados 🐾
 
 Descrição:
 Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
@@ -21,7 +25,7 @@ O que aprenderemos?
 
 <br>
 
-## 2 - Repetindo Textos ✏️
+### 2 - Repetindo Textos ✏️
 
 Descrição:
 Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
@@ -36,7 +40,7 @@ O que aprenderemos?
 
 <br>
 
-## 3 - Operações Matemáticas Simples 📐
+### 3 - Operações Matemáticas Simples 📐
 
 Descrição:
 Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
@@ -49,7 +53,7 @@ O que aprenderemos?
 
 <br>
 
-## 4 - Verificando Números Pares e Ímpares 🧮
+### 4 - Verificando Números Pares e Ímpares 🧮
 
 Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
 Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
@@ -62,7 +66,7 @@ O que aprenderemos?
 
 <br>
 
-## 5 - Calculando Média de Notas 📚
+### 5 - Calculando Média de Notas 📚
 
 Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
 Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
@@ -74,7 +78,7 @@ O que aprenderemos?
 
 <br>
 
-## 6 - Verificando Palíndromos 🔄
+### 6 - Verificando Palíndromos 🔄
 
 Descrição: Vamos testar se uma palavra é um palíndromo?! 
 Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
